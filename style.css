@@ -45,7 +45,6 @@ nav{
 }
 
 .navi li{
-    color:#84a9ac;
     list-style: none;
 }
 
@@ -55,7 +54,6 @@ nav{
 
 .navi li a {
     text-decoration: none;
-    color:#84a9ac;
 }
 
 .navi li a:hover{
