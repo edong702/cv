@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+    color:#84a9ac;
+}
+
+body{
+    background:#204051
+}
+
+nav{
+    display:flex;
+    width:100%;
+    height:100px;
+    margin:15px auto 0 auto;
+    position:sticky;
+    top:0;
+    background-color:#204051;
+}
+
+.icon{
+    padding-left:5%;
+    width:50%;
+}
+
+.icon img{
+    height:100px;
+    width:100px;
+}
+
+.navi{
+    width:50%;
+    display:flex;
+    margin-top:15px;
+}
+
+.navi ul{
+    width:100%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navi li{
+    color:#84a9ac;
+    list-style: none;
+}
+
+.navi li a:visited {
+    color:#84a9ac;
+}
+
+.navi li a {
+    text-decoration: none;
+    color:#84a9ac;
+}
+
+.navi li a:hover{
+    text-decoration: underline;
+}
+
+.parallax{
+    margin:10px auto;
+    height:400px;
+    width:100%;
+    background: url(skyy.jpg);
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+}
+
+hr{
+    border-color:#84a9ac;
+}
