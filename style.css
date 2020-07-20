@@ -1,8 +1,10 @@
+<link href="https://fonts.googleapis.com/css2?family=Arvo:ital@0;1&display=swap" rel="stylesheet">
 *{
     box-sizing: border-box;
     margin:0px;
     padding:0px;
     color:#84a9ac;
+    font-family: 'Arvo', serif;
 }
 
 body{
