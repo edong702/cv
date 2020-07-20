@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Arvo:ital@0;1&display=swap" rel="stylesheet">
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 *{
     box-sizing: border-box;
     margin:0px;
@@ -8,7 +8,7 @@
 body{
     background:#204051;
     color:#84a9ac;
-    font-family: 'Arvo', serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 nav{
